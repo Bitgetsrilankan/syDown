@@ -14,7 +14,7 @@
    
     {
       "src": "/spotify/down",
-      "dest": "/index.js"
+      "dest": "/spdown.js"
     }
   ]
 }
